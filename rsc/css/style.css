@@ -202,3 +202,15 @@ nav {
     color: white;
     font-size: 20px;
 }
+
+@media screen and (max-width: 1815px) {
+
+    .container {
+        height: 100%;
+        margin-top: 50px;
+    }
+
+    #shop {
+        margin-top: 20px;
+    }
+}
